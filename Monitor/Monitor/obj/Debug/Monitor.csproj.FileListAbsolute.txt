@@ -12,3 +12,10 @@ C:\Users\Sogdian\Desktop\Monitor\Monitor\Monitor\obj\Debug\Monitor.csprojAssembl
 C:\Users\Sogdian\Desktop\Monitor\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
 C:\Users\Sogdian\Desktop\Monitor\Monitor\Monitor\obj\Debug\Monitor.exe
 C:\Users\Sogdian\Desktop\Monitor\Monitor\Monitor\obj\Debug\Monitor.pdb
+E:\Работа\Workplace\Monitor\Monitor\Monitor\bin\Debug\Monitor.exe.config
+E:\Работа\Workplace\Monitor\Monitor\Monitor\bin\Debug\Monitor.exe
+E:\Работа\Workplace\Monitor\Monitor\Monitor\bin\Debug\Monitor.pdb
+E:\Работа\Workplace\Monitor\Monitor\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+E:\Работа\Workplace\Monitor\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+E:\Работа\Workplace\Monitor\Monitor\Monitor\obj\Debug\Monitor.exe
+E:\Работа\Workplace\Monitor\Monitor\Monitor\obj\Debug\Monitor.pdb
